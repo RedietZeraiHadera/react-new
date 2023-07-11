@@ -8,7 +8,7 @@ const Navigate = () => {
           <a href="/home">Home</a>
         </li>
         <li>
-          <a href="/about">More</a>
+          <a href="/about">About</a>
         </li>
         <li>
           <a href="/login">Login</a>

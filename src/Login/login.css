@@ -4,7 +4,7 @@
 }
 .form > input{
     padding: 12px 20px;
-    width: 70%;
+    width: 60%;
     border: solid 1px #E2E2E2;
     border-radius: 5px;
 }
@@ -12,7 +12,7 @@
     border: none;
     outline: none;
     padding: 10px 12px;
-    background-color: rgb(108,187,108);
+    background-color: rgb(108, 126, 187);
     border-radius: 5px;
     color: #FFFFFF;
 }
