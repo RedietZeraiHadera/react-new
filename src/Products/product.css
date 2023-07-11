@@ -1,0 +1,45 @@
+.productsStart {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .productsStart > div > p:last-of-type {
+    color: navy;
+    font-weight: bold;
+  }
+  .react{
+      background-color: #007BFF;
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    .productsStart > div {
+      margin: 1rem;
+      padding: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 0.5rem;
+      text-align: center;
+      width: 300px;
+    }
+    .productsStart > div > img {
+      max-width: 100%;
+      height: auto;
+    }
+  .react button:hover {
+      background-color: #0062CC;
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
